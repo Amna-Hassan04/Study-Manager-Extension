@@ -5,10 +5,12 @@
     <p><img src=https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/c10f94e8-2ed1-4de5-82cb-4c9a99a019c8"" alt="logo" width="20%" /></p>
 
 </p>
-
-![1](https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/97b3e5d7-5b8f-4866-b0a7-e7b0bf5e11e2)  &nbsp;&nbsp;&nbsp;&nbsp;    ![2](https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/90d60827-3c62-4b16-988e-7091e4db8bf5)
-
-
+<p align="center">
+      <img src="https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/97b3e5d7-5b8f-4866-b0a7-e7b0bf5e11e2" align="left">
+      <img src="https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/90d60827-3c62-4b16-988e-7091e4db8bf5" align="right">
+</p>
+<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 A Study Planning Manager chrome extension that lets you select the tech stack you want to learn and also write tasks about self studies, schoolwork and other work. 
 
 - [Features](#features)
