@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="timelinestyle.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="column">
+       <div class="title">
+        <h1>Study Planner<img src="images/study.png"></h2>
+       </div> 
+       <div class="goal">
+        <h2>Monthly Goal<img src="images/goal.png"></h2>
+        <div class="row">
+        <input type="text"  placeholder="Add your text">
+        </div>
+        </div> 
+        <div class="todo-app">
+            <h2>Things to Self Study<img src="images/icon.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your text">
+                <button id="addtaskButton">Add</button>
+            </div>
+            <ul id="list-container">
+            <!-- <li class="checked">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li>-->   
+
+            </ul>
+        </div>
+
+        <div class="todo-app">
+            <h2>School Work I have to do <img src="images/schoolwork.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box-schoolwork" placeholder="Add your text">
+                <button id="addschooltaskButton">Add</button>
+            </div>
+            <ul id="list-container-schoolwork">
+            <!-- <li class="checked">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li>-->   
+
+            </ul>
+        </div>
+
+        <div class="todo-app">
+            <h2>Other Stuff I have to do <img src="images/hobbies.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box-other" placeholder="Add your text">
+                <button id="addOthertaskButton">Add</button>
+            </div>
+            <ul id="list-container-other">
+            <!-- <li class="checked">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li>-->   
+
+            </ul>
+        </div>
+    </div>
+        <div class="column">
+        <section id=timeline class="section-timeline">
+            <h1>Timeline</h1>
+            <p class="leader">Select the tech stack you want to learn:
+            </p>
+            <div class="row">
+                <select id="selectTechStack">
+                    <option value="devops">Dev Ops</option>
+                    <option value="webdevelopment">Web Development</option>
+                    <option value="machinelearning">Machine Learning</option>
+                    <option value="gamedevelopment">Game Development</option>
+                </select>    
+                <button type ="submit"id="addtimelineButton">Add</button>
+
+            </div>
+            <div class="demo-card-wrapper">
+                <div class="demo-card demo-card--step1">
+                    <div class="head">
+                        <div class="number-box">
+                            <span>01</span>
+                        </div>
+                        <h2>Month 1</h2>
+                    </div>
+                    <div class="body" id="step1">
+                        <p id="text1">Learn Git 
+                           <ul>
+                            <li>Base Commands</li>
+                            <li>Pull Request</li>
+                            <li>Branching</li>
+                            <li>Merging</li></p>
+                           </ul>
+                    </div>
+                </div>
+        
+                <div class="demo-card demo-card--step2">
+                    <div class="head">
+                        <div class="number-box">
+                            <span>02</span>
+                        </div>
+                        <h2> Month 2 </h2>
+                    </div>
+                    <div class="body" id="step2">
+                        <p>Learn One Programming Language
+                            <ul>
+                             <li>Python</li>
+                             <li>Go</li>
+                             <li>Javascript</li></p> 
+                            </ul>  </div>
+                </div>
+        
+                <div class="demo-card demo-card--step3">
+                    <div class="head">
+                        <div class="number-box">
+                            <span>03</span>
+                        </div>
+                        <h2> Month 3&4</h2>
+                    </div>
+                    <div class="body" id="step3">
+                        <p>Learn Linux
+                            <ul>
+                             <li>Shell commands</li>
+                             <li>File System</li>
+                             <li>Networking</li>
+                             <li>Virtualization</li>
+                             <li>POSIX</li>
+                        </p> 
+                            </ul>
+                            </div>
+                </div>
+        
+                <div class="demo-card demo-card--step4">
+                    <div class="head">
+                        <div class="number-box">
+                            <span>04</span>
+                        </div>
+                        <h2> Month 5&6</h2>
+                    </div>
+                    <div class="body" id="step4">
+                        <p>4</p>
+                    </div>
+                </div>
+       
+    <div class="demo-card demo-card--step5 " id="step5Head">
+                    <div class="head">
+                        <div class="number-box">
+                            <span>05</span>
+                        </div>
+                        <h2>Month 7</h2>
+                    </div>
+                    <div class="body" id="step5">
+                        <p>We will alpha test the game with a small number of people. Then finally we will release the game.</p>
+                    </div>
+                </div>
+            
+       
+                
+            </div>
+        </section>
+    </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

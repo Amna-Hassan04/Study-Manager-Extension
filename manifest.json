@@ -1,0 +1,11 @@
+{
+    "name": "To Do List",
+    "version": "1.0.0",
+    "description": "A study organizer.",
+    "manifest_version": 3,
+    "author": "Amna Hassan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Things To Get Done"
+    }
+}
