@@ -39,8 +39,7 @@ https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/577fd34
 - Add Monthly Goals
 - [Request more features](#feature-request)...
 
-
-  ## 🐛 Bug Reporting
+## 🐛 Bug Reporting
 
 Feel free to [open an issue](https://github.com/Amna-Hassan04/Study-Manager-Extension/issues) on GitHub if you find any bug.
 
