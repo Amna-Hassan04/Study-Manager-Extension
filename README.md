@@ -7,7 +7,7 @@
 </p>
 <p align="center">
       <img src="https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/97b3e5d7-5b8f-4866-b0a7-e7b0bf5e11e2" align="left">
-      <img src="https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/90d60827-3c62-4b16-988e-7091e4db8bf5" align="right">
+      <img src="https://github.com/Amna-Hassan04/Study-Manager-Extension/assets/88897729/90d60827-3c62-4b16-988e-7091e4db8bf5" align="right" width="400px">
 </p>
 <br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
